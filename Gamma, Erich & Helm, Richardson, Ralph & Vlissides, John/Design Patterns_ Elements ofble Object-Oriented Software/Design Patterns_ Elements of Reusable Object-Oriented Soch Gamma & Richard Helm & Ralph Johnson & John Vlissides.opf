@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcb4ee07-ff66-4381-b7bc-ef11dab8d6d4</dc:identifier>
+        <dc:title>Design Patterns: Elements of Reusable Object-Oriented Software</dc:title>
+        <dc:creator opf:file-as="Gamma, Erich &amp; Helm, Richard &amp; Johnson, Ralph &amp; Vlissides, John" opf:role="aut">Erich Gamma</dc:creator>
+        <dc:creator opf:file-as="Gamma, Erich &amp; Helm, Richard &amp; Johnson, Ralph &amp; Vlissides, John" opf:role="aut">Richard Helm</dc:creator>
+        <dc:creator opf:file-as="Gamma, Erich &amp; Helm, Richard &amp; Johnson, Ralph &amp; Vlissides, John" opf:role="aut">Ralph Johnson</dc:creator>
+        <dc:creator opf:file-as="Gamma, Erich &amp; Helm, Richard &amp; Johnson, Ralph &amp; Vlissides, John" opf:role="aut">John Vlissides</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-02T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Design Patterns&lt;/em&gt; is a modern classic in the literature of object-oriented development, offering timeless and elegant solutions to common problems in software design. It describes patterns for managing object creation, composing objects into larger structures, and coordinating control flow between objects. The book provides numerous examples where using composition rather than inheritance can improve the reusability and flexibility of code. Note, though, that it's not a tutorial but a catalog that you can use to find an object-oriented design pattern that's appropriate for the needs of your particular application--a selection for virtuoso programmers who appreciate (or require) consistent, well-engineered object-oriented designs. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;This book isn't an introduction to object-oriented technology or design. Many books already do a good job of that...this isn't an advanced treatise either. It's a book of design patterns that describe simple and elegant solutions to specific problems in object-oriented software design....Once you understand the design patterns and have had an "Aha!" (and not just a "Huh?" experience with them, you won't ever think about object-oriented design in the same way. You'll have insights that can make your own designs more flexible, modular, reusable, and understandable--which is why you're interested in object-oriented technology in the first place, right? -- &lt;em&gt;From the Preface&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This is one of the best written and wonderfully insightful books that I have read in a great long while...this book establishes the legitimacy of patterns in the best way: not by argument, but by example. -- &lt;em&gt;C++ Report&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0201634988</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780201633610</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ralph Johnson&quot;: &quot;&quot;, &quot;John Vlissides&quot;: &quot;&quot;, &quot;Erich Gamma&quot;: &quot;&quot;, &quot;Richard Helm&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-05-28T14:31:11+00:00" name="calibre:timestamp"/>
+        <meta content="Design Patterns: Elements of Reusable Object-Oriented Software" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Design Patterns_ Elements of Reusable Object-Oriented Soch Gamma &amp; Richard Helm &amp; Ralph Johnson &amp; John Vlissides.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

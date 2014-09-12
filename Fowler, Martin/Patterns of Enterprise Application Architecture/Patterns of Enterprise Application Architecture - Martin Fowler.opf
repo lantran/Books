@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06f2e228-1123-45e9-be2f-fa80056c54d0</dc:identifier>
+        <dc:title>Patterns of Enterprise Application Architecture</dc:title>
+        <dc:creator opf:file-as="Fowler, Martin" opf:role="aut">Martin Fowler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-09T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;The practice of enterprise application development has benefited from the emergence of many new enabling technologies. Multi-tiered object-oriented platforms, such as Java and .NET, have become commonplace. These new tools and technologies are capable of building powerful applications, but they are not easily implemented. Common failures in enterprise applications often occur because their developers do not understand the architectural lessons that experienced object developers have learned. &lt;/p&gt;&lt;p&gt;&lt;strong&gt; &lt;em&gt;Patterns of Enterprise Application Architecture&lt;/em&gt; &lt;/strong&gt; is written in direct response to the stiff challenges that face enterprise application developers. The author, noted object-oriented designer Martin Fowler, noticed that despite changes in technology--from Smalltalk to CORBA to Java to .NET--the same basic design ideas can be adapted and applied to solve common problems. With the help of an expert group of contributors, Martin distills over forty recurring solutions into patterns. The result is an indispensable handbook of solutions that are applicable to any enterprise application platform. &lt;/p&gt;&lt;p&gt;This book is actually two books in one. The first section is a short tutorial on developing enterprise applications, which you can read from start to finish to understand the scope of the book's lessons. The next section, the bulk of the book, is a detailed reference to the patterns themselves. Each pattern provides usage and implementation information, as well as detailed code examples in Java or C#. The entire book is also richly illustrated with UML diagrams to further explain the concepts. &lt;/p&gt;&lt;p&gt;Armed with this book, you will have the knowledge necessary to make important architectural decisions about building an enterprise application and the proven patterns for use when building them. &lt;/p&gt;&lt;p&gt;The topics covered include: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dividing an enterprise application into layers&lt;/li&gt;&lt;li&gt;The major approaches to organizing business logic&lt;/li&gt;&lt;li&gt;An in-depth treatment of mapping between objects and relational databases&lt;/li&gt;&lt;li&gt;Using Model-View-Controller to organize a Web presentation&lt;/li&gt;&lt;li&gt;Handling concurrency for data that spans multiple transactions&lt;/li&gt;&lt;li&gt;Designing distributed object interfaces&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;0321127420B10152002 &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Martin Fowler&lt;/strong&gt; is an independent consultant who has applied objects to pressing business problems for more than a decade. He has consulted on systems in fields such as health care, financial trading, and corporate finance. His clients include Chrysler, Citibank, UK National Health Service, Andersen Consulting, and Netscape Communications. In addition, Fowler is a regular speaker on objects, the Unified Modeling Language, and patterns.&lt;/p&gt;&lt;p&gt;0321127420AB07242003 &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B008OHVDFM</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vqTfNFDzzdIC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780133065213</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Object Oriented</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta content="{&quot;Martin Fowler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-05-31T13:51:41+00:00" name="calibre:timestamp"/>
+        <meta content="Patterns of Enterprise Application Architecture" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Patterns of Enterprise Application Architecture - Martin Fowler.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
